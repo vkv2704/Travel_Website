@@ -1,43 +1,42 @@
-Project Title:Travel_Website
-Group Roll No.: UI20EC68(Vishal Kumar)
+Project Title: Travel Website
+Group Roll No.: UI20EC68 (Vishal Kumar)
 
+### Project Description
+This is a React-based multi-page website with a navigation bar, home page, blog section, about section, and other components. The layout is designed using functional components and CSS styling. The purpose of the website is to showcase various offerings and provide information about the organization.
 
-
-### How to run Project
-
-save all files in a folder 
-open terminal and reach the directory by following commond and install npm
+### How to Run the Project
+1.Save all project files in a folder.
+2.Open the terminal and navigate to the project directory using the following command:
 
 cd webproject
 
+3.Install the required dependencies using the following command:
+
 npm install
 
+4.Start the project using the following command
 
-Run Process : As it is an React Project just write ("npm start") after installing all the dependecies on the system folder.
+npm start
 
+5.Open a browser and navigate to http://localhost:3000 to view the website.
 
-Open a browser and navigate to http://localhost:3000 to view the website.
+### Technologies Used
+The website was built using the following technologies:
 
-
-Github Link: https:https://github.com/vkv2704/Travel_Website
-
-Website Hosted Link:https://vkv2704.github.io/Travel_Website/
-
-### Features
-
-This React app appears to be a multi-page website consisting of a navigation bar, a home page, a blog section, and an about section, among other components. The layout is structured using a combination of functional components and CSS styling. Overall, the app appears to be designed to showcase various offerings and provide information about the organization that created it.
-
-### Technologies
-
-This website was built using following technalogies
-
-ReactJs
+ReactJS
 
 JavaScript
 
 HTML
 
 CSS
+
+### Links
+
+GitHub Repository: https://github.com/vkv2704/Travel_Website
+
+Hosted Website: https://vkv2704.github.io/Travel_Website/
+
 
 
 
