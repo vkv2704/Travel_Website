@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Travel_Website/static/css/main.3d97b334.css",
+    "main.js": "/Travel_Website/static/js/main.9fe2aaf9.js",
+    "static/media/videomp4.mp4": "/Travel_Website/static/media/videomp4.81928d3febb74435bb76.mp4",
+    "static/media/img shimla.jpg": "/Travel_Website/static/media/img shimla.84bb6a2e0e23957f841d.jpg",
+    "static/media/hiking1.jpg": "/Travel_Website/static/media/hiking1.1559ff88da57d4a48dd5.jpg",
+    "static/media/ams.jpg": "/Travel_Website/static/media/ams.330e5b5a82b6a311ceec.jpg",
+    "static/media/img peru.jpg": "/Travel_Website/static/media/img peru.e630a57efecbedfa7b50.jpg",
+    "static/media/imgnorway.jpg": "/Travel_Website/static/media/imgnorway.acdcfee2b1313833ed7f.jpg",
+    "static/media/img13.jpg": "/Travel_Website/static/media/img13.13eda7b104a381b6ed3c.jpg",
+    "static/media/img india.jpg": "/Travel_Website/static/media/img india.b9ee31995c39b53530ec.jpg",
+    "static/media/img (10).jpg": "/Travel_Website/static/media/img (10).19839a982917e1d5d84f.jpg",
+    "static/media/custumer.jpg": "/Travel_Website/static/media/custumer.565a044f130e5aab6c4c.jpg",
+    "static/media/img (8).jpg": "/Travel_Website/static/media/img (8).52d334aecf1e740cccc2.jpg",
+    "static/media/img haridwar.jpg": "/Travel_Website/static/media/img haridwar.1bc7cf540991d935c37d.jpg",
+    "static/media/mountain.jpg": "/Travel_Website/static/media/mountain.932d6293fdd70a9cb927.jpg",
+    "static/media/img peris.jpg": "/Travel_Website/static/media/img peris.cc65a186e4fe559b37d8.jpg",
+    "static/media/img (5).jpg": "/Travel_Website/static/media/img (5).ca017c6abd77aabc3aa9.jpg",
+    "index.html": "/Travel_Website/index.html",
+    "main.3d97b334.css.map": "/Travel_Website/static/css/main.3d97b334.css.map",
+    "main.9fe2aaf9.js.map": "/Travel_Website/static/js/main.9fe2aaf9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d97b334.css",
+    "static/js/main.9fe2aaf9.js"
+  ]
+}
