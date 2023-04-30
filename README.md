@@ -31,9 +31,12 @@ This React app appears to be a multi-page website consisting of a navigation bar
 
 This website was built using following technalogies
 
-React
+ReactJs
+
 JavaScript
+
 HTML
+
 CSS
 
 
